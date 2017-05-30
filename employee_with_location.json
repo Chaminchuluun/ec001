@@ -13,7 +13,8 @@
     "city": "Boston, MA",
     "picture": "steven_wells.jpg",
     "Latitude": 24.151818,
-    "Longitude": 120.692647
+    "Longitude": 120.692647,
+    "Address": 24.151818,120.692647
   },
   {
     "id": 11,
@@ -29,7 +30,8 @@
     "city": "Boston, MA",
     "picture": "amy_jones.jpg",
     "Latitude": 24.1444318,
-    "Longitude": 120.7045463
+    "Longitude": 120.7045463,
+    "Address": 24.1444318,120.7045463
   },
   {
     "id": 10,
@@ -45,7 +47,8 @@
     "city": "Boston, MA",
     "picture": "kathleen_byrne.jpg",
     "Latitude": 24.1353194,
-    "Longitude": 120.7010648
+    "Longitude": 120.7010648,
+    "Address": 24.1353194,120.7010648
   },
   {
     "id": 9,
@@ -61,7 +64,8 @@
     "city": "Boston, MA",
     "picture": "gary_donovan.jpg",
     "Latitude": 24.1386815,
-    "Longitude": 120.6972243
+    "Longitude": 120.6972243,
+    "Address": 24.1386815,120.6972243
   },
   {
     "id": 8,
@@ -77,7 +81,8 @@
     "city": "Boston, MA",
     "picture": "lisa_wong.jpg",
     "Latitude": 24.144513,
-    "Longitude": 120.6907429
+    "Longitude": 120.6907429,
+    "Address": 24.144513, 120.6907429
   },
   {
     "id": 7,
@@ -93,7 +98,8 @@
     "city": "Boston, MA",
     "picture": "paula_gates.jpg",
     "Latitude": 24.1384468,
-    "Longitude": 120.7036533
+    "Longitude": 120.7036533,
+    "Address": 24.1384468,120.7036533
   },
   {
     "id": 5,
@@ -109,7 +115,8 @@
     "city": "Boston, MA",
     "picture": "ray_moore.jpg",
     "Latitude": 24.1149542,
-    "Longitude": 120.6519714
+    "Longitude": 120.6519714,
+    "Address": 24.1149542,120.6519714
   },
   {
     "id": 6,
@@ -125,7 +132,8 @@
     "city": "Boston, MA",
     "picture": "paul_jones.jpg",
     "Latitude": 24.1183312,
-    "Longitude": 120.6608196
+    "Longitude": 120.6608196,
+    "Address": 24.1183312,120.6608196
   },
   {
     "id": 3,
@@ -141,7 +149,8 @@
     "city": "Boston, MA",
     "picture": "eugene_lee.jpg",
     "Latitude": 24.1166993,
-    "Longitude": 120.665471
+    "Longitude": 120.665471,
+    "Address": 24.1166993,120.665471
   },
   {
     "id": 4,
@@ -157,7 +166,8 @@
     "city": "Boston, MA",
     "picture": "john_williams.jpg",
     "Latitude": 24.1288489,
-    "Longitude": 120.6803184
+    "Longitude": 120.6803184,
+    "Address": 24.1288489,120.6803184
   },
   {
     "id": 2,
@@ -173,7 +183,8 @@
     "city": "Boston, MA",
     "picture": "julie_taylor.jpg",
     "Latitude": 24.126121,
-    "Longitude": 120.659032
+    "Longitude": 120.659032,
+    "Address": 24.126121,120.659032
   },
   {
     "id": 1,
@@ -189,6 +200,7 @@
     "city": "Boston, MA",
     "picture": "james_king.jpg",
     "Latitude": 24.1231903,
-    "Longitude": 120.6600755
+    "Longitude": 120.6600755,
+    "Address": 24.1231903,120.6600755
   }
 ]
